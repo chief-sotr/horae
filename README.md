@@ -40,6 +40,8 @@ KPIs
 3. As — I want to keep track of any changes in the development of each plant so that I can monitor how changes affect the health of my plant over time. 
 4. As — I want to set reminders for myself to take action on any given plant or group of plants so that I don’t forget to take care of the given plants anytime, anywhere. 
 
+To add: confirmation of primary/secondary action, login flow, editing actions
+
 ## Sketches & brainstorming (near future MVP)
 - Dashboard [view](https://github.com/chief-sotr/horae/blob/master/Horae/IMG_0540.jpg)
 - New [report](https://github.com/chief-sotr/horae/blob/master/Horae/IMG_0541.jpg) (the primary action)
