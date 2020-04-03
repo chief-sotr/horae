@@ -1,5 +1,5 @@
 # Horae
-Grow healthy plants
+```Grow healthy plants```
 
 ## Product vision
 
