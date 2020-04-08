@@ -1,5 +1,5 @@
 # Horae
-```Create a self-sufficient garden```
+```Reward your home with a self-sufficient plant-loving system.```
 
 ## Product vision
 
