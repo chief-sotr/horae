@@ -1,5 +1,5 @@
 # Horae
-```Grow anything```
+```Create a self-sufficient garden```
 
 ## Product vision
 
