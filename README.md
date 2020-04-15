@@ -1,12 +1,12 @@
 # Horae
-```A rewarding plant-loving system.```
+```A plant-loving system.```
 
 ## Product vision
 
 WHY
 - Plants are not created equal and adapt in each specific environment differently. Each gardener have different experiences with their plants. Growing plants should be easy and predictable, not just for botanists. 
 - The amount of online information is overwhelming, confusing and often too basic = not applicable (ie. Mountain town vs. arid city). 
-- I want to build a generation of self-sufficient plant lovers that want to develop a hobby with complex rare plants, decorate their house with one easy plant, or grow crops to feed their family. Being able to grow your own crops is critical to survive in case of disaster. 
+- I want to build a generation of self-sufficient plant lovers that want to develop a hobby with complex rare plants, decorate their house with one easy plant, or grow crops to feed their family. Being able to grow your own crops is critical to build a sustainbable life world. 
 - Local self-sufficiency = local economic opportunities. 
 
 WHO
