@@ -35,15 +35,14 @@ KPIs
 - I want to make it easy for users to help improve the product experience as measured by the increase of NPS.
 
 ## User Stories (Abby, near future)
-1. As — I want to put all my plants info in one place so that I can get access to each of my plant's situation
-2. As — I want to keep track of the development of each plant so that I can report on my plant’s health over time
-3. As — I want to keep track of any changes in the development of each plant so that I can monitor how changes affect the health of my plant over time. 
-4. As — I want to set reminders for myself to take action on any given plant or group of plants so that I don’t forget to take care of the given plants anytime, anywhere. 
+1. As the owner of houseplants, I want to never forget about caring for my plants so they can flourish. 
+2. As the owner of houseplants, I want to track the growth of my plants so that I can plan how I manage my plants.
+3. As the owner of houseplants, I want to organize manually my plants so that the tool adapts to my care management style.
 
 To add: confirmation of primary/secondary action, login flow, editing actions
 
-## Sketches & brainstorming (near future MVP)
-- Dashboard [view](https://github.com/chief-sotr/horae/blob/master/Horae/IMG_0540.jpg)
-- New [report](https://github.com/chief-sotr/horae/blob/master/Horae/IMG_0541.jpg) (the primary action)
-- Plant page [view](https://github.com/chief-sotr/horae/blob/master/Horae/IMG_0538.jpg)
-- New [action](https://github.com/chief-sotr/horae/blob/master/Horae/IMG_0539.jpg) (the secondary action)
+## Sketches & brainstorming 
+- Perusing [flow](https://github.com/chief-sotr/horae/blob/master/Horae/Horae-2020-04-17-01.png)
+- Set up [flow](https://github.com/chief-sotr/horae/blob/master/Horae/Horae-2020-04-17-02.png)
+- Care [flow](https://github.com/chief-sotr/horae/blob/master/Horae/Horae-2020-04-17-03.png)
+- Profile [flow](https://github.com/chief-sotr/horae/blob/master/Horae/Horae-2020-04-17-04.png)
